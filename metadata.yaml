@@ -1,0 +1,52 @@
+_repo: Way-of-the-gods_68378
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stevens, Lawrence Sterne
+    aliases:
+    - Stevens, L. Sterne
+    - Stevens, Sterne
+    - Lawrence, Stephen
+    - Lawrence
+    - Stevens, Lawrence
+    birthdate: 1886
+    deathdate: 1960
+    gutenberg_agent_id: '46453'
+    url: http://www.gutenberg.org/2009/agents/46453
+    wikipedia: https://en.wikipedia.org/wiki/Lawrence_Sterne_Stevens
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    aliases:
+    - Smith, Woodrow Wilson
+    - Hammond, Keith
+    - Liddell, C. H.
+    - Hastings, Hudson
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68378'
+language: en
+pgterms:marc905: 20220514041950kuttner
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan, Alex White & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net.
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human evolution -- Fiction'
+- !lcsh 'Mutation (Biology) -- Fiction'
+- GITenberg
+title: Way of the gods
+url: http://www.gutenberg.org/ebooks/68378
